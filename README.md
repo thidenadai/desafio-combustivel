@@ -7,6 +7,9 @@ kanban 2
 kanban 3 
 ![kanban3](https://github.com/thidenadai/calculadora-combustivel-/assets/125681715/d75f5810-0f54-47af-9ed0-9c4f5b3cc135)
 
+briefing 
+![briefing](https://github.com/thidenadai/desafio-combustivel/assets/125681715/2ecae057-64c8-44ae-9d38-1279718b01b7)
+
 
 
 
